@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CLMartello
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new projects
+- 🌱 I’m currently learning C at 42 Porto
 - 📫 How to reach me https://www.linkedin.com/in/carolinamartello/
 
 <!---
